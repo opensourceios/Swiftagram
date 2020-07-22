@@ -1,0 +1,12 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/Swiftagram/Swiftagram/Sources/Swiftagram/Authentication/Secret/Secret.swift",
+      "line": 12,
+      "symbol": "Secret",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/Swiftagram/Swiftagram"
+}
