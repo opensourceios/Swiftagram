@@ -7,6 +7,12 @@
 
 import Foundation
 
+#if canImport(CoreGraphics)
+import CoreGraphics
+#else
+public typealias CGPoint = Double
+#endif
+
 import ComposableRequest
 
 /// A `class` representing a `Location`
